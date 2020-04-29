@@ -1,0 +1,6 @@
+application_name=po-and-q
+application_version=0.0.1
+application_description=\"for po and q test use\"
+application_icon=
+helm_chart_version=0.0.1
+docker_registry=kakawangsap
